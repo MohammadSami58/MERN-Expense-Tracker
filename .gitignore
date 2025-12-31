@@ -1,0 +1,10 @@
+# Node modules
+backend/node_modules/
+frontend/expense-tracker/node_modules/
+
+# Environment variables
+backend/.env
+frontend/expense-tracker/.env
+
+# Frontend build folder
+frontend/expense-tracker/dist
